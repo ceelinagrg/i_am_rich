@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(MaterialApp(
   theme:ThemeData.dark(),
   home: Scaffold(
-    backgroundColor: Colors.blueGrey,
+    backgroundColor: Colors.blue,
     appBar: AppBar(
       title: Text("I am rich"),
       backgroundColor: Colors.blueGrey,
